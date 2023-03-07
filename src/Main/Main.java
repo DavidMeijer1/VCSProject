@@ -7,4 +7,6 @@ public class Main {
         GitTest.hoi();
     }
 
+    String name = "GitHub";
+
 }
